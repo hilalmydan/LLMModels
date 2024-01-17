@@ -1,5 +1,10 @@
 # LLMModels
-LLMlerin Temsilleri Üzerinde Ensemble
+## LLMlerin Temsilleri Üzerinde Ensemble
+<p align="center">
+ 
+<p>
+  
+## Proje Özeti
 
 Bu çalışmada, Dil Modeli (LLM) temsillerinin geliştirilmesi amacıyla ensemble yöntemleri olan Bagging, AdaBoost, Random Forest, Rotation Forest ve SVM gibi algoritmaların karşılaştırmalı analizi yapılmaktadır. Ayrıca, bu yöntemlerin hiperparametre optimizasyonu süreci detaylı bir şekilde incelenmektedir. Türkçe metin veri kümesi üzerinde gerçekleştirilen deneylerde, farklı ensemble yöntemlerinin performansları karşılaştırılarak en etkili yöntem belirlenmeye çalışılmaktadır.
 
@@ -7,22 +12,7 @@ Bu çalışmada, Dil Modeli (LLM) temsillerinin geliştirilmesi amacıyla ensemb
 
 Sonuç olarak, bu çalışma LLM temsillerini optimize etmek amacıyla ensemble yöntemlerinin seçimi, hiperparametre optimizasyonu ve farklı BERT modellerinin kullanımı konularında kapsamlı bir analiz sunarak, dil işleme alanındaki araştırmacılara değerli bir kaynak sağlamaktadır. 
 
-# Potential Customer Yield Calculation with Rule Based Classification (Kural Tabanlı Sınıflandırma ile Potansiyel Müşteri Getirisi Hesaplama)
-<p align="center">
-  <img src="https://github.com/celalakcelikk/rule-based-customer-segmentation/blob/main/media/Servant-Leadership.png" alt="rule-based"/>
-<p>
+## Veri Setleri
+* Data klasörü altında bulunann veri setleri LLM modelleri ile çalışılabilecek uygunluktaki "yorumsepeti" ve "E-Ticaret" adlarında Türkçe veri setleridir. Bu projede yorumsepeti ve E-Ticaret veri setlerinin yanında Huggging face'teki interpress_news_category_tr_lite veri setinden de 3 farklı veri seti türetilerek toplamda 5 adet veri seti üzerinde işlemler yapılmıştır.
+* Hugging faceten alınan veri setinden oluşturulan ilk veri seti Türkçe haber verilerini içeren ve sınıfları magazin ve teknoloji olan iki sınıflı bir veri seti olarak tasarlanmıştır. İkinci oluşturulan veri setinin sınıfları eğitim ve spordur. 3. oluşturulan veri setinin sınıfları ise kültürsanat ve ekonomidir.
   
-## İş Problemi
-Bir oyun şirketi müşterilerinin bazı özelliklerini kullanarak seviye tabanlı (level based) yeni müşteri tanımları (persona) oluşturmak ve bu yeni müşteri tanımlarına göre segmentler oluşturup bu segmentlere göre yeni gelebilecek müşterilerin şirkete ortalama ne kadar kazandırabileceğini tahmin etmek istemektedir.
-
-## Veri Seti Hikayesi
-* Persona.csv veri seti uluslararası bir oyun şirketinin sattığı ürünlerin fiyatlarını ve bu ürünleri satın alan kullanıcıların bazı demografik bilgilerini barındırmaktadır.
-* Veri seti her satış işleminde oluşan kayıtlardan meydana gelmektedir. Bunun anlamı tablo tekilleştirilmemiştir.
-* Diğer bir ifade ile belirli demografik özelliklere sahip bir kullanıcı birden fazla alışveriş yapmış olabilir.
-
-## Veri Seti Değişkenleri
-* **PRICE:** Müşterinin harcama tutarı 
-* **SOURCE:** Müşterinin bağlandığı cihaz türü 
-* **SEX:** Müşterinin cinsiyeti
-* **COUNTRY:** Müşterinin ülkesi 
-* **AGE:** Müşterinin yaşı
