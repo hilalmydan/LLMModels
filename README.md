@@ -1,8 +1,8 @@
 # LLMModels
 ## LLMlerin Temsilleri Üzerinde Ensemble
 <p align="center">
- [(https://miro.medium.com/v2/resize:fit:4800/format:webp/1*qMB2joDDk1vOQaB5M8Deug.png
-])<p>
+
+<p>
   
 ## Proje Özeti
 
