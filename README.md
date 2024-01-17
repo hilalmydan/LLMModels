@@ -1,5 +1,4 @@
-# LLMModels
-## LLMlerin Temsilleri Üzerinde Ensemble
+# LLMlerin Temsilleri Üzerinde Ensemble
 <p align="center">
 <img src="https://github.com/hilalmydan/LLMModels/blob/main/LLM%20Models.png" alt="rule-based"/>
 <p>
