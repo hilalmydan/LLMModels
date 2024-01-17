@@ -1,7 +1,7 @@
 # LLMModels
 ## LLMlerin Temsilleri Üzerinde Ensemble
 <p align="center">
-
+<img src="https://github.com/hilalmydan/LLMModels/main/LLM Models.png" alt="rule-based"/>
 <p>
   
 ## Proje Özeti
