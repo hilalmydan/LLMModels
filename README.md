@@ -1,6 +1,6 @@
 # LLMlerin Temsilleri Üzerinde Ensemble
 <p align="center">
-<img src="https://github.com/hilalmydan/LLMModels/blob/main/image/LLM%20Models.png" alt="rule-based" width="500" height="500"/>
+<img src="https://github.com/hilalmydan/LLMModels/blob/main/image/LLM%20Models.png" alt="rule-based" width="600" height="300"/>
 <p>
   
 ## Proje Özeti
